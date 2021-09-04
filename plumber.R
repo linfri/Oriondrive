@@ -11,12 +11,12 @@ if(!require("bhappyr")) remotes::install_github("LudvigOlsen/bhappyr")
 pacman::p_load(bhappyr)
 
 #* @apiTitle Oriondrive API
-#* @apiDescription As of now, a very basic and Hello World-like API. The only function within the API so far is serving a WAV file with generated "amusing feedback" phrase completed by DeepAI GPT2 model.
+#* @apiDescription As of now, a very basic and Hello World-like API. The only endpoint within the API so far serves a WAV file with generated "amusing feedback" phrase completed by DeepAI GPT2 model.
 
 #' Default GET response.
 #' @get /
 function() {
-  list(status = "Alright, it works! Call /wav in order to get a generated WAV file.")
+  list(status = "Alright, it works! If you want to get a generated WAV file, GET request to /wav is your way to go")
 }
 
 #' Serves a wav file with "amusing feedback" completed by DeepAI GPT2 model.
