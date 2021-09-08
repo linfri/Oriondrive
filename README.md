@@ -8,7 +8,7 @@ As of now, the API is deployed on [Heroku]( https://radiant-woodland-99773.herok
 
 Dependencies: `tuneR`, `httr`, `aws.polly`, `bhappyr`, `remotes`.
 
-As of now, a `GET` request to `/wav` without any params generates a wave file produced with the help of Amazon Polly text-to-speech, with the content provided by the "happy feedback" function of the `bhappyr` package, completed by the GPT-2 model trained by DeepAI. Try it out [here]( https://radiant-woodland-99773.herokuapp.com/wav).
+A `GET` request to `/wav` without any params generates a wave file produced with the help of Amazon Polly text-to-speech, with the content provided by the "happy feedback" function of the `bhappyr` package, completed by the GPT-2 model trained by DeepAI. Try it out [here]( https://radiant-woodland-99773.herokuapp.com/wav).
 
 ## Roadmap
 
