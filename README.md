@@ -8,7 +8,7 @@ In 2022, Linn was motivated to explore the idea of integrating music and mathema
 
 ## The Challenge
 
--   Listen to audio files "Matrix A" and "Matrix B". The robotic voice within the tracks repeats sequences of numbers and letters; the sequences contain five symbols in total, both numbers and letters. Pick the sequences within the respective tracks which are repeated most frequently.
+-   Listen to audio files [Matrix A](https://thtimepeace.bandcamp.com/track/matrix-a) and [Matrix B](https://thtimepeace.bandcamp.com/track/matrix-b). The robotic voice within the tracks repeats sequences of numbers and letters; the sequences contain five symbols in total, both numbers and letters. Pick the sequences within the respective tracks which are repeated most frequently.
 -   Write down the sequences. If the sequence is 0a1aa, write it down as follows: <https://justpaste.it/0a1aa>
 -   Follow the links you have just formed to get the data for matrix A and B respectively.
 -   You should get two 7x7 quadratic matrices. The matrix that is aligned with the audio file "Matrix A" will be referred to as **A** from now on. The matrix that is aligned with the audio file "Matrix B" will be referred to as **B**.
