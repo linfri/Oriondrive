@@ -20,5 +20,5 @@ In 2022, the idea of integrating music and mathematical/research challenges took
 -   Take the absolute values for the residuals, sum the values and round the result to nine decimals.
 -   You should have two values, each of them containing nine decimals. Add them to each other.
 -   Take the resulting value (fractional part only). Enter it in the [Result Verification Form](https://linfri.shinyapps.io/oriondrive). If the value is 43.342057418, enter 342057418. If the value is correct, you will get the account data for the crypto wallet with the symbolic prize. **Make sure to save the data, since you will get it only once.** If someone has already claimed the prize, the link to the reference solution (in R) will be available via the form.
--   If you liked the challenge, please consider a donation to Linn's ETH wallet (0x976F7dabdF756CE785135F8C312aC6b86C142304). This will give her a motivation to design more challenges in the future.
+-   If you liked the challenge, please consider a donation to Linn's ETH wallet (0x976F7dabdF756CE785135F8C312aC6b86C142304) or [ko-fi](https://ko-fi.com/linfri). This will give her a motivation to design more challenges in the future.
 -   Was the challenge too easy, or, perhaps, too hard? Feedback is always welcome!
